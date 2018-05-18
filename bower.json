@@ -1,0 +1,22 @@
+{
+  "name": "bird.institute",
+  "homepage": "https://bird.institute",
+  "authors": [
+    "Alex Tolar"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hls.js": "^0.9.1",
+    "dash-js": "^2.6.8"
+  }
+}
